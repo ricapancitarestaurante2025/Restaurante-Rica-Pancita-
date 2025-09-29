@@ -1,3 +1,4 @@
+IMG-20250924-WA0037(1).jpg
 # 🍴 Rica Pancita
 
 **Buffet Livre de Comida Caseira em Curitiba - PR**
