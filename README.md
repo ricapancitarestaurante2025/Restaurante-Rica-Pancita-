@@ -17,16 +17,8 @@ Acesse o site oficial hospedado no GitHub Pages:
 Quer garantir sua mesa agora mesmo?  
 👉 [**Clique aqui para reservar**](https://arisecloudsolutions.github.io/ricapancita/#reserva)
 
----
 
-## 🚀 Tecnologias
-- HTML5  
-- CSS3  
-- GitHub Pages  
 
----
 
-## 📖 Como editar
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/arisecloudsolutions/ricapancita.git
+
+
